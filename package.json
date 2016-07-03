@@ -1,0 +1,19 @@
+{
+  "name": "helloazure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "xD"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rob738/helloAzure.git"
+  },
+  "author": "Robert Hecht",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rob738/helloAzure/issues"
+  },
+  "homepage": "https://github.com/Rob738/helloAzure#readme"
+}
